@@ -18,4 +18,4 @@
 4. `FragmentTodoList` 클래스 완성 후에 실행 확인
 
 ## GitHub 저장소
-https://github.com/rox120/lite_todo_v0.1
+https://github.com/rox120/lite_todo_v0.1/tree/master
